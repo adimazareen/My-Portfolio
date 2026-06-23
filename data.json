@@ -1,0 +1,273 @@
+{
+  "main": {
+    "name": "Shaikh Adima Zareen",
+    "shortDesc": "Computer Science graduate passionate about AI, Machine Learning, RAG systems, Python development, and building impactful software solutions.",
+    "titles": [
+      "Software Engineer",
+      "Python Developer",
+      "AI Enthusiast",
+      "Machine Learning Developer"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/python.png",
+      "https://img.icons8.com/color/144/flask.png",
+      "https://img.icons8.com/color/144/opencv.png",
+      "https://img.icons8.com/color/480/postgreesql.png",
+      "https://img.icons8.com/color/480/html-5--v1.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "/about/About_Image.png",
+    "aboutImageCaption": "Building Intelligent Software Solutions 🚀",
+    "title": "Software Developer",
+    "about": "I am a Bachelor of Computer Science graduate passionate about building intelligent, user-focused software solutions. My interests lie in Artificial Intelligence, Machine Learning, Python development, and modern full-stack technologies. Over the years, I have worked on projects involving Retrieval-Augmented Generation (RAG), LangChain, Flask, React Native, OpenCV, and database technologies. I enjoy transforming complex ideas into practical applications that solve real-world problems and deliver meaningful user experiences.From developing AI-powered document question-answering systems to creating offline emergency communication applications, I am constantly exploring innovative ways to combine technology and creativity. I believe in writing clean, scalable code and continuously improving my skills through hands-on projects and lifelong learning.I am always eager to collaborate, learn new technologies, and contribute to impactful solutions that make a difference.",
+    "callUrl": "",
+    "resumeUrl": ""
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/adimazareen/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/adimazareen/"
+    }
+  ],
+  "skills": [
+  {
+    "name": "Python",
+    "image": "https://img.icons8.com/color/480/python.png"
+  },
+  {
+    "name": "PHP",
+    "image": "https://img.icons8.com/color/480/php.png"
+  },
+  {
+    "name": "Java",
+    "image": "https://img.icons8.com/color/480/java-coffee-cup-logo.png"
+  },
+  {
+    "name": "HTML5",
+    "image": "https://img.icons8.com/color/480/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "image": "https://img.icons8.com/color/480/css3.png"
+  },
+  {
+    "name": "JavaScript",
+    "image": "https://img.icons8.com/color/480/javascript.png"
+  },
+  {    
+    "name": "React",
+    "image": "https://img.icons8.com/color/480/react-native.png"
+  },
+  {
+    "name": "Flask",
+    "image": "https://img.icons8.com/color/480/flask.png"
+  },
+  {
+    "name": "OpenCV",
+    "image": "https://img.icons8.com/color/480/opencv.png"
+  },
+  {    
+    "name": "TensorFlow",
+    "image": "https://img.icons8.com/color/480/tensorflow.png"
+  },
+  {
+    "name": "React Native",
+    "image": "https://img.icons8.com/color/480/react-native.png"
+  },
+  {
+    "name": "LangChain",
+    "image": "/skills/Langchain.png"
+  },
+  {
+    "name": "FAISS",
+    "image": "/skills/faiss.jpeg"
+  },
+  {
+    "name": "Ollama",
+    "image": "/skills/ollama.png"
+  },
+  {
+    "name": "MongoDB",
+    "image": "https://img.icons8.com/color/480/mongodb.png"
+  },
+  {
+    "name": "MySQL",
+    "image": "https://img.icons8.com/color/480/mysql.png"
+  },
+  {
+    "name": "PostgreSQL",
+    "image": "https://img.icons8.com/color/480/postgreesql.png"
+  },
+  {
+    "name": "SQLite",
+    "image": "/skills/SQLite.jpeg"
+  }
+],
+  "projects": [
+{
+"name": "Offline Emergency Alert App",
+"techstack": "React Native, Google Nearby Connections API, SQLite, Flask",
+"image": "/project/offline-alert-app.jpeg",
+"description": [
+"Developed secure peer-to-peer emergency communication and alert sharing without internet connectivity.",
+"Built a decentralized mesh networking system with local storage and cloud synchronization.",
+"Designed scalable alert monitoring capable of handling 10,000+ concurrent emergency alerts."
+],
+"links": {
+"code": "https://github.com/adimazareen/Offline-Emergency-Alert-App",
+"video": "",
+"visit": ""
+}
+},
+{
+"name": "LangChain PDF Q&A System",
+"techstack": "LangChain, FAISS, Ollama (Qwen2.5:7B), HuggingFace, Python",
+"image": "/project/langchain-pdf-qa.png",
+"description": [
+"Built a Retrieval-Augmented Generation (RAG) pipeline for PDF-based question answering.",
+"Improved contextual response accuracy by approximately 90% using FAISS vector search.",
+"Reduced manual document lookup time by nearly 70% through automated semantic retrieval."
+],
+"links": {
+"code": "https://github.com/adimazareen/LangChain-PDF-Q-A-System",
+"video": "",
+"visit": ""
+}
+},
+{
+"name": "Quran Video Creator Web Application",
+"techstack": "Flask, MongoDB, MoviePy, Python, REST APIs",
+"image": "/project/quran-video-creator.png",
+"description": [
+"Developed a web platform for automatic Quran recitation video generation.",
+"Integrated synchronized Arabic text, English translations and audio rendering.",
+"Reduced manual video editing effort by nearly 80% while supporting 100+ Surahs."
+],
+"links": {
+"code": "https://github.com/adimazareen/Quran-Video-Creator",
+"video": "",
+"visit": ""
+}
+},
+{
+"name": "Image-to-Video Animation Tool",
+"techstack": "Python, OpenCV, MoviePy",
+"image": "/project/image-to-video-animation.png",
+"description": [
+"Created a tool that converts static images into animated videos using zoom and pan effects.",
+"Implemented smooth transitions and dynamic resolution scaling.",
+"Added support for JPG, PNG and RGBA-to-RGB conversion for export compatibility."
+],
+"links": {
+"code": "https://github.com/adimazareen/Image_Layout",
+"video": "",
+"visit": ""
+}
+}
+],
+"certifications": [
+  {
+    "name": "RAG Course for Beginners",
+    "issuer": "Simplilearn",
+    "logo": "/certifications/simplilearn.png",
+    "date": "May 2025",
+    "credentialUrl": "https://certificates.simplicdn.net/share/8285281_76463241746118854581.pdf"
+  },
+  {
+    "name": "Introduction to Generative AI",
+    "issuer": "Google Cloud Skills Boost",
+    "logo": "/certifications/google-cloud.png",
+    "date": "Jan 2025",
+    "credentialUrl": "https://www.skills.google/paths/118/course_templates/536/badge"
+  },
+  {
+    "name": "LLMOps",
+    "issuer": "DeepLearning.AI",
+    "logo": "/certifications/deeplearning-ai.png",
+    "date": "Jan 2025",
+    "credentialUrl": "https://learn.deeplearning.ai/accomplishments/0e3525e4-f9d6-48ee-9342-3a8e6670c0d8?usp=sharing"
+  }
+],
+  "educations": [
+    {
+      "institute": "Maulana Azad College, Aurangabad",
+      "logo": "/logos/mac.jpeg",
+      "degree": "Bachelor of Computer Science (BCS)",
+      "startDate": "2023",
+      "endDate": "2026",
+      "CGPA": "8.6/10"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "My Personal Mentors Pvt. Ltd.",
+      "logo": "/logos/mypersonalmentors.jpeg",
+      "position": "Resume Writer and LinkedIn Optimizer",
+      "startDate": "Jun 2024",
+      "endDate": "Jan 2025",
+      "desc": [
+        "Crafted compelling resumes and optimized LinkedIn profiles for clients across various industries.",
+        "Conducted personalized consultations to understand clients' career goals and tailor their professional branding.",
+        "Utilized industry-specific keywords and best practices to enhance clients' visibility and appeal to recruiters.",
+        "Received positive feedback from clients, resulting in increased job interview opportunities and career advancements."
+      ]
+    },
+    {
+      "company": "Data Binaries",
+      "logo": "/logos/databinaries.jpeg",
+      "position": "AI Accelerated Using Python Intern",
+      "startDate": "May 2024",
+      "endDate": "Sep 2024",
+      "desc": [
+        "Built OpenCV-based face, hand and glasses detection systems.",
+        "Enhanced password generation security using cryptographic methods.",
+        "Developed Python automation tools and Telegram bots.",
+        "Created data visualization solutions using NumPy and Matplotlib."
+      ]
+    }
+  ],
+  "services": [
+  {
+      "title": "Resume Writing & LinkedIn Optimization",
+      "description": "Craft compelling resumes and optimize LinkedIn profiles to enhance professional branding and career opportunities.",
+      "image": "/services/resume-writing.png",
+      "sampleLink": "https://drive.google.com/drive/folders/1oTQ3vDZJdqjyqKU2KrD4WuuppiW8aouP?usp=sharing"
+  },
+  {
+    "title": "Portfolio Website Development",
+    "description": "Design and develop responsive portfolio websites to showcase your skills, projects, and achievements.",
+    "image": "/services/portfolio-development.png",
+    "sampleLink": "https://drive.google.com/drive/folders/1eeDaP3wI97uXPaUvAcq0utMiurY-qX-q?usp=sharing"
+  },
+  {
+    "title": "AI & RAG Development",
+    "description": "Build custom AI assistants, RAG pipelines, LangChain applications and document Q&A systems.",
+    "image": "/services/ai-rag-development.png",
+    "sampleLink": "https://drive.google.com/drive/folders/1-HlVWgn8vYQd6NNqG5Fd1CTciDN3BgHX?usp=sharing"
+  },
+  {
+    "title": "Python Development",
+    "description": "Develop automation tools, APIs, web applications and data processing solutions.",
+    "image": "/services/python-development.png",
+    "sampleLink": "https://drive.google.com/drive/folders/1gKEjMaG5hTrind7EAcmCGF3LT-dLDaLn?usp=sharing"
+  },
+  {
+    "title": "Web Application Development",
+    "description": "Create responsive Flask and full-stack web applications.",
+    "image": "/services/web-development.jpeg",
+    "sampleLink": "https://drive.google.com/drive/folders/1WG9VgwXdLBNJYKYpY8qEAkFWLvPAoTyN?usp=sharing"
+  },
+  {
+    "title": "Mobile App Development",
+    "description": "Build React Native Android applications with modern UI and backend integration.",
+    "image": "/services/mobile-development.png",
+    "sampleLink": "https://drive.google.com/drive/folders/1qsL7upQH1E41mHFyPO3duEipYeUWralw?usp=sharing"
+  }
+]
+}
