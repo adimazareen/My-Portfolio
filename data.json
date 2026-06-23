@@ -27,10 +27,12 @@
   },
   "socials": [
     {
+      "name": "LinkedIn",
       "icon": "FaLinkedin",
       "link": "https://www.linkedin.com/in/adimazareen/"
     },
     {
+      "name": "GitHub",
       "icon": "FaGithub",
       "link": "https://github.com/adimazareen/"
     }
